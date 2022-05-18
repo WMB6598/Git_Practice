@@ -1,3 +1,3 @@
-# Hello Git and GitHub
+# This is a practice repository for learning Git and Github
 -----------
 
